@@ -6,5 +6,5 @@
  :sunflower: Passionate about modern web and mobile development :sunflower: <br>
 
 ## What am I up to?
-:cherry_blossom: Studying for AWS Cloud Practictioner certification:cherry_blossom: <br>
-:cherry_blossom: Trying to learn REACT/NODE JS :cherry_blossom: <br>
+:cherry_blossom: Learning BASH :cherry_blossom: <br>
+:cherry_blossom: Looking for Internships :cherry_blossom: <br>
