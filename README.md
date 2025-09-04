@@ -17,7 +17,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
   <br/>
@@ -33,4 +32,3 @@
 
 ---
 
-<p align="center">✨ _“Code is like art, it should make people feel something.”_ ✨</p>
