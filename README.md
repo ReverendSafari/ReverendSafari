@@ -1,4 +1,4 @@
-<h1 align="center">🦁SAFARI SVENSSON🦁/h1>  
+<h1 align="center">🦁SAFARI SVENSSON🦁</h1>  
 <p align="center">
   <b><i>💻 Backend Web Developer | 🚀 Always learning, always building</i></b>
 </p>
