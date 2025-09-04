@@ -1,8 +1,24 @@
-# WELCOME TO MY GITHUB :) 
-:sparkles: Safari Svensson :sparkles: <br>
- :sunflower: 4rd Year Student studying Computer Science at the New College of Florida :sunflower: <br>
- :sunflower: Passionate about modern web development :sunflower: <br>
+# 🐾 SAFARI SVENSSON  
 
-## What am I up to?
-:cherry_blossom: Working on a simple web native gameSuite :cherry_blossom: <br>
-:cherry_blossom: Open to work :) :cherry_blossom: <br>
+💻 Backend & Web Developer  
+🚀 Building clean, scalable apps for the web  
+
+---
+
+## 🎯 Interests  
+- ⚡ Backend Development  
+- 🌐 Web Applications  
+- 🔗 APIs & Databases  
+- 🛠️ Building useful, simple tools  
+
+---
+
+## 🛠️ Skills  
+- 💡 Languages: JavaScript | Python | Java  
+- ⚙️ Backend: Node.js | Express | Django | PostgreSQL | SQLite
+- 🎨 Frontend: React | HTML | CSS  
+  
+
+---
+
+
